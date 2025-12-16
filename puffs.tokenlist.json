@@ -1,0 +1,18 @@
+
+{
+  "name": "ppoppo•puffs Token List",
+  "logoURI": "https://puffs.club/wp-content/uploads/2025/12/puffs-logo-64.png",
+  "keywords": ["ppoppo", "PUFFS", "Seasons Inc."],
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xf43C33d4FE7C1A8154D82576eD7C05B33100bB94",
+      "name": "ppoppo",
+      "symbol": "PUFFS",
+      "decimals": 18,
+      "logoURI": "https://puffs.club/wp-content/uploads/2025/12/puffs-logo-64.png"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
